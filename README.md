@@ -1,6 +1,6 @@
 # Notey
 ##### Purpose:
-To run various Speed Tests, scrape search engines for website rankings, and scrape webflow for designers.
+To run various Speed Tests (Using API calls or through browser), scrape search engines for website rankings, and scrape webflow for designers.
 
 ##### Python Versions:
 Use Python2.7 for non-Beijing speed tests, and Python3 for Beijing speed tests.
